@@ -1,2 +1,5 @@
 # Lab2Cli
-##First CHANGE
+
+=======
+##Change dev-Domy
+>>>>>>> dev-Domy
